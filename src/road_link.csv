@@ -1,0 +1,6 @@
+name,road_link_id,from_node_id,to_node_id,facility_type,dir_flag,length,lanes,capacity,free_speed,link_type,VDF_fftt1,VDF_cap1,VDF_alpha1,VDF_beta1,cost
+,1,1,2,traveling,1,3,1,10,60,1,3,10,0.15,4,0
+,2,1,3,traveling,1,1,1,10,60,1,1,10,0.15,4,0
+,3,2,4,traveling,1,3,1,10,60,1,3,10,0.15,4,0
+,4,3,2,traveling,1,1,1,10,60,1,1,10,0.15,4,0
+,5,3,4,traveling,1,6,1,20,60,1,6,20,0.15,4,0
